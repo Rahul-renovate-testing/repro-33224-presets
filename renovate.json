@@ -1,7 +1,7 @@
 {
   "packageRules": [
    {
-      "extends": ["default:githubComTokeni"],
+      "extends": ["packages:githubComTokeni"],
       "matchHost": "github"
    } 
   ]
